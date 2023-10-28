@@ -5,7 +5,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=qirrat098&label=Profile%20views&color=0e75b6&style=flat" alt="qirrat098" /> </p>
 
-- 🌱 I’m currently learning **Android**
+- 🌱 I’m currently learning **Android App Development**
 
 - ⚡ Fun fact **I'm also a visual artist**
 
