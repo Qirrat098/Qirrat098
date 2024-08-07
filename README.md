@@ -1,5 +1,4 @@
 <h1 align="center">Hi 👋, I'm Qirrat Azam</h1>
-<h3 align="center">A budding computer science student</h3>
 
 
 
