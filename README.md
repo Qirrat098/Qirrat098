@@ -1,6 +1,6 @@
 ### Hi there! <img src="https://emojis.slackmojis.com/emojis/images/1536351075/4594/blob-wave.gif" width="25"/>
 
-I’m [**Qirrat**], a frontend design engineer based in Karachi, Pakistan.
+I’m **Qirrat**, a frontend design engineer based in Karachi, Pakistan.
 
 I love turning design ideas into lightning-fast, accessible interfaces that feel effortless.
 
