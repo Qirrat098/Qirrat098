@@ -1,15 +1,15 @@
 ### Hi there! <img src="https://emojis.slackmojis.com/emojis/images/1536351075/4594/blob-wave.gif" width="25"/>
 
-I’m **Qirrat**, a frontend design engineer based in Karachi, Pakistan.
+I’m **Qirrat**, an AI enthusiast and design engineer based in Karachi, Pakistan.
 
-I love turning design ideas into lightning-fast, accessible interfaces that feel effortless.
+I love creating design that are lightning-fast and accessible interfaces that feel effortless.
 
 Outside of code and Figma, you’ll find me watching kdramas, hitting the gym, or painting. I lead and organize tech-related workshops/bootcamps and big events. 
 
 #### Fun Facts:
 
-* I love caramel iced latte, yes, I have diabetes, no, I won't stop, and yes, my pancreas is definitely judging me.
-* Myname is my fav kdrama, so if it doesn’t make you wanna throw punches and get emotionally wrecked at the same time, are you even watching it right?
+* AI is future! so is mine. 
+* I love exploring everything. I've been in Mobile App Dev(Flutter), Design(Figma/Illustrator/Fressco), Web Dev(HTML/CSS/JavaScript/ReactJS/NextJS), and now AI :) 
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
