@@ -1,7 +1,7 @@
 <h1 align="center">hey 👋, I'm Qirrat</h1>
 
 <p align="center">
-  I like building things that (sometimes) work and (hopefully) matter.
+  I'm a Data Engineer and I like building things that (sometimes) work and (hopefully) matter.
 </p>
 
 ---
@@ -9,7 +9,7 @@
 ### about me
 - building AI-powered products & ideas  
 - into Data and AI, automation & product thinking  
-- learning Python, systems & real-world engineering    
+- learning systems & real-world engineering    
 
 ---
 
